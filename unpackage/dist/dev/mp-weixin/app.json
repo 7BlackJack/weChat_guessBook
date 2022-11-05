@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/tiehe/tiehe",
+    "pages/tiehe/time-line/add",
+    "pages/tiehe/time-line/edit",
+    "pages/tiehe/time-line/list",
+    "pages/tiehe/time-line/detail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "心灵窗口",
+    "navigationBarBackgroundColor": "#f8f1f1",
+    "backgroundColor": "#f8f1f1"
+  },
+  "tabBar": {
+    "color": "#b4b4b4",
+    "selectedColor": "#2c2c2c",
+    "borderStyle": "white",
+    "backgroundColor": "#f8f1f1",
+    "list": [
+      {
+        "text": "留言条",
+        "iconPath": "/static/ui-01/home.png",
+        "selectedIconPath": "/static/ui-01/home_s.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "时间线",
+        "iconPath": "/static/ui-01/community.png",
+        "selectedIconPath": "/static/ui-01/community_s.png",
+        "pagePath": "pages/tiehe/tiehe"
+      },
+      {
+        "text": "帮助",
+        "iconPath": "/static/ui-01/me.png",
+        "selectedIconPath": "/static/ui-01/me_s.png",
+        "pagePath": "pages/home/home"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}

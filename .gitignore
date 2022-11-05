@@ -1,0 +1,8 @@
+#忽略云函数
+
+cloudfunctions
+
+userInfo/
+wxServer/
+happy/
+
