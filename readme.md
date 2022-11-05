@@ -81,4 +81,4 @@ https://www.bilibili.com/video/BV1PP411E7qG/p=43&spm_id_from=333.880.my_history.
  
 ### 注意事项
 
-切记把uniCloud下得cloudfunctions解压道当前目录下即可
+切记把uniCloud下得cloudfunctions解压到当前目录下即可
